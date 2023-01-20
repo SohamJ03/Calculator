@@ -1,0 +1,23 @@
+.main{
+    
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    border-color: black;
+    text-align: center;
+ 
+}
+
+.button{
+
+   text-align: center;
+   padding: 25px;
+}
+.padding{
+    padding: 10px;
+    text-align: center;
+}
